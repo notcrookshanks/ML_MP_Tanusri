@@ -1,0 +1,26 @@
+TABLE 3. The list of features available in the CCF dataset.
+
+Sr | Name of Feature Description
+No.
+1 Account number Related with account number
+2 Open to buy The availability of balance
+3 Credit Limit The maximum amount of credit of
+the associated account
+4 Card number Number of Credit card
+5 Transaction The transaction amount submitted
+Amount by the merchant
+6 Transaction Time Time of the transaction
+7 Transaction Date Date of the transaction
+8 Transaction Type Types of Transaction, such as a
+cash withdrawal and purchase
+9 Currency Code The currency code
+10 | Merchant Category | The Merchant business type code
+Code
+11 | Merchant Number | The merchant reference number
+12 | Transaction The country where the transaction
+Country takes place
+13 | Transaction City The city where the transaction takes
+place
+14 | Approval Code The response to the authorisation
+request, it means approve or reject.
+

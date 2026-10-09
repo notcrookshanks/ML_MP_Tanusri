@@ -1,0 +1,7 @@
+model,paper_accuracy,reproduced_accuracy,accuracy_diff,paper_f1_score,reproduced_f1_score,f1_score_diff,dataset_variant
+decision_tree,99.93,99.9421,0.0121,81.05,83.0769,2.0269,standardized_amount
+knn,99.95,99.849,-0.101,85.71,21.8182,-63.8918,standardized_amount
+logistic_regression,99.91,99.828,-0.082,73.56,0.0,-73.56,standardized_amount
+random_forest,99.92,99.9649,0.0449,77.27,89.1304,11.8604,standardized_amount
+svm,99.93,99.828,-0.102,77.71,0.0,-77.71,standardized_amount
+xgboost,99.94,99.9491,0.0091,84.49,83.9779,-0.5121,standardized_amount

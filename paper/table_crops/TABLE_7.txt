@@ -1,0 +1,4 @@
+Table 7 shows the training and validation accuracy of pro- to using a batch size larger than 2
+posed CNN and baseline CNN algorithms. The CNN model confirming that each batch has a des
+
+VOLUME 10, 2022

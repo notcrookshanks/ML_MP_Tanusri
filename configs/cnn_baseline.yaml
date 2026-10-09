@@ -1,0 +1,22 @@
+# Baseline Neural Network Configuration (Table 9)
+seed: 42
+
+model:
+  name: "baseline_nn"
+  type: "mlp"
+  input_dim: 29 # Or 30 (with Time)
+  hidden_units: 16
+  activation: "relu"
+  dropout_rate: 0.5
+  output_units: 1
+  output_activation: "sigmoid"
+
+training:
+  batch_size: 2048
+  epochs_list: [14, 20, 35] # Evaluated in Table 7 and Table 10
+  default_epochs: 20
+  optimizer: "adam"
+  learning_rate: 0.001
+  loss: "binary_crossentropy"
+  metrics: ["accuracy", "precision", "recall", "auc"]
+  use_careful_bias: true # log(pos/neg)

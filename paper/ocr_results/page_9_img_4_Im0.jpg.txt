@@ -1,0 +1,114 @@
+‘Tue label
+
+Non-Defauni0)
+
+Defauit(2)
+
+‘Fue label
+
+Foe label
+
+Non-Defauit(0)
+
+Default(2)
+
+Non-Derauit(o)
+
+Detautt)
+
+Confusion Matrix of Decision Tree
+
+Confusion Matrix of Logistic Regression
+
+37 cy
+
+Confusion Matrix of XGBoost
+
+Predicted label
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000
+
+0000
+
+40000
+
+30000
+
+20000
+
+10000
+
+10000
+
+‘Tue label
+
+‘Fue label
+
+Fue label
+
+Non-Default(0)
+
+Default(1)
+
+Non-Default(0)
+
+Default(1)
+
+Non-Defauit(0)
+
+Default(2)
+
+Confusion Matrix of KNN
+
+20 81
+> >
+cS s
+s s
+o Co
+Predicted label
+
+Confusion Matrix of SVM
+
+Predicted label
+
+Confusion Matrix of Random Forest Tree
+
+Predicted label
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000

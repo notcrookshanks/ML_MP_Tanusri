@@ -1,0 +1,21 @@
+TABLE 8. The summary ot CNN sequential model.
+
+Layers (Types) Output Shape Param#
+convld (Conv1D) (None, 29, 32) 96
+batch normalisation (Batch (None, 29, 32) 128
+No)
+dropout (Dropout) (None, 29, 32) 0
+convld_1 (Conv1D) (None, 28, 64) 4160
+batch_normalisation_1 (None, 28, 64) 256
+(Batch)
+dropout_1 (Dropout) (None, 28, 64) 0
+flatten (Flatten) (None, 1792) 0
+dense (Dense) (None, 64) 114752
+dropout_2 (Dropout) (None, 64) 0
+dense_1 (Dense) (None, 1) 65
+TABLE 9. The summary of baseline CNN sequential model.
+Layer (Type) Output Shape Param #
+
+Popstisme distrib
+
+Po Pol Bt.) oe ee eee ee ee eee eee a eee

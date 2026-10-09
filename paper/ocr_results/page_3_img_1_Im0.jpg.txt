@@ -1,0 +1,36 @@
+CARDHOLDER
+
+‘The cardholder
+pays the merchant
+for a purchase
+with a credit card.
+
+MERCHANT
+
+The merchant
+
+send the credit
+
+card details to
+the acquirer.
+
+ACQUIRER,
+
+CREDIT CARD NETWORK
+
+ISSUING BANK
+
+© vi
+
+HASE!
+
+The acquirer
+forwards the
+credit card details
+to the credit card
+network,
+
+‘The credit card
+network requests
+payment authorization
+from the issuing bank.

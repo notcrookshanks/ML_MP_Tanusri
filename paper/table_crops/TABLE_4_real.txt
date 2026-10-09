@@ -1,0 +1,24 @@
+TABLE 4. Characteristics of the dataset.
+
+S. | Feature Description
+No
+1. Time Time in seconds to require the
+
+lapses between the current
+transaction and the first
+
+transaction
+2. Vi, V2, | These 28 columns show result of
+V3.0... V28 a PCA dimensionality reduction
+attributes to protect user identities and
+sensitive features.
+3. Amount Amount of transaction
+4. Class label Binary class labels 1 and 0 for
+
+nonfraudulent and fraudulent
+
+b: APPLIED MACHINE LEARNING & ENSEMBLE LEARNING
+TECHNIQUES
+
+We use and apply the following machine and ensemble learn-
+ing algorithm.

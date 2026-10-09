@@ -1,0 +1,26 @@
+# 10-Layer CNN Architecture (Table 8)
+# Used for the 14-epoch and 35-epoch evaluation reported in Table 6
+seed: 42
+
+model:
+  name: "cnn_10_layers"
+  type: "cnn1d"
+  input_dim: 30 # Reshaped to (30, 1)
+  conv1_filters: 32
+  conv1_kernel: 2
+  conv1_dropout: 0.2
+  conv2_filters: 64
+  conv2_kernel: 2
+  conv2_dropout: 0.5
+  dense_units: 64
+  dense_dropout: 0.5
+  output_activation: "sigmoid"
+
+training:
+  batch_size: 2048
+  epochs_list: [14, 35]
+  default_epochs: 35
+  optimizer: "adam"
+  learning_rate: 0.001
+  loss: "binary_crossentropy"
+  metrics: ["accuracy", "precision", "recall", "auc"]

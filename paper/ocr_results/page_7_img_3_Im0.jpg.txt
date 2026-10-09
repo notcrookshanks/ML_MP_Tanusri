@@ -1,0 +1,8 @@
+Single depth slice
+
+Aa) 2 | 4
+max pool with 2x2 filters
+5/6|7)|8 and stride 2
+3 | 2 Bie
+1/2|)3/4
+

@@ -1,0 +1,49 @@
+Table 3 lists the important features and shows the mainframe
+transaction table of credit cards. Even though the whole
+construction of the transaction information table might be
+slightly dissimilar amongst card issuers, the vital character-
+istics recorded would be controlled in the database and are
+accessible for fraud detection modelling.
+
+1) EXPERIMENTAL STEP-UP
+We discuss the dataset to be cast-off and the achievement
+evaluation measurements to be applied.
+
+a: DESCRIPTION OF DATASET
+
+The credit card dataset is accessible for research purposes.
+The dataset [11] holds transactions made by a cardholder
+over a two-day period, i.e., September 2018. There were
+284,807 transactions in total, of which 492, or 0.172 percent,
+were fraudulent. Because disclosing a consumer’s transaction
+details is considered a problem of confidentiality, the main
+component analysis is applied to the majority of the dataset’s
+features using principal component analysis (PCA). PCA is a
+
+otandarA and undalr weed tanhniniiea in tha ralawant litaratnira
+
+SPOR Oe ECE CEN EERE VE LEE UGG
+
+S. | Feature Descripti
+No
+1. Time Time in
+lapses |
+transactio!
+transactio!
+2 Vi, V2, | These 28
+V3...... V28 a PCA d
+attributes to protec
+sensitive 1
+3. Amount Amount o
+4. Class label Binary c!
+nonfraudu
+
+b:; APPLIED MACHINE LEARNING &
+
+TECHNIQUES
+
+We use and apply the following ma
+
+ing algorithm.
+
+1) EXTREME | EARNING AAETHONN

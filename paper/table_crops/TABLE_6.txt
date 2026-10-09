@@ -1,0 +1,17 @@
+TABLE 6. The result of CNN model using epoch size as 35 and 14.
+
+Metrics Epoch Size 35 | Epoch Size
+14
+Loss 0.004 0.014
+TP 83.0 87
+FP 6.0 66
+TN 56849.0 56789
+FN 24.0 20
+Accuracy 0.999 0.998
+Precision 0.932 0.568
+Recall 0.775 0.813
+AUC 0.929 0.942
+PRC 0.816 0.741
+Total Fraudulent 107 107
+Transactions
+

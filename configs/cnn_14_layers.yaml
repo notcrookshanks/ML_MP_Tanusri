@@ -1,0 +1,28 @@
+# Proposed 14-Layer CNN Configuration (Section IV-C-11-a)
+seed: 42
+
+model:
+  name: "cnn_14_layers"
+  type: "cnn1d"
+  input_dim: 30
+  conv1_filters: 32
+  conv1_kernel: 2
+  conv1_dropout: 0.2
+  conv2_filters: 64
+  conv2_kernel: 2
+  conv2_dropout: 0.5
+  dense1_units: 100
+  dense1_dropout: 0.5
+  dense2_units: 50
+  dense2_dropout: 0.25
+  dense3_units: 25
+  dense3_dropout: 0.25
+  output_activation: "sigmoid"
+
+training:
+  batch_size: 2048
+  epochs: 100
+  optimizer: "adam"
+  learning_rate: 0.001
+  loss: "binary_crossentropy"
+  metrics: ["accuracy", "precision", "recall", "auc"]

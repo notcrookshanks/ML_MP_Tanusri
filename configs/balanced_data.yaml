@@ -1,0 +1,21 @@
+# Balanced Data Experiment Configuration (Section IV-C-9)
+seed: 42
+
+balancing:
+  method: "random_undersample"
+  sampling_strategy: 1.0 # 1:1 ratio (492 fraud vs 492 legitimate)
+  leakage_safe: true # Primary: sample train fold only; Secondary: test pre-split
+  run_presplit_comparison: true
+
+model:
+  name: "cnn_14_layers"
+  type: "cnn1d"
+  input_dim: 30
+
+training:
+  batch_size: 32 # Small batch size appropriate for balanced 984-sample dataset
+  epochs: 100
+  optimizer: "adam"
+  learning_rate: 0.001
+  loss: "binary_crossentropy"
+  metrics: ["accuracy", "precision", "recall", "auc"]

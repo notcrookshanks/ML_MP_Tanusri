@@ -1,0 +1,25 @@
+TABLE 1.
+
+Algorithms of machine learning and their accuracy.
+
+Sr. Datasets Algorithm Accuracy | Reference
+# (%)
+1. The LR-based 715 [12]
+bankcard RF-based 73
+enrolment | GBDT-based 74
+records
+2. Commercial SVM 97.10 [4]
+banks in
+China RF 96.90
+3. Records of Light 99.91 [13]
+credit card Gradient
+transactions Boosting
+Machine
+algorithm
+4. Data are CS-SVM 98.05 [14]
+collected in GA-SVM 98.05
+the law PSO-SVM 98.05
+enforcement
+department
+in China
+

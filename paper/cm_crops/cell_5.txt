@@ -1,0 +1,19 @@
+‘Tue label
+
+Non-Defauit(0)
+
+Default(2)
+
+Confusion Matrix of Random Forest Tree
+
+Predicted label
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000

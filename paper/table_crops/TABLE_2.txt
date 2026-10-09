@@ -1,0 +1,43 @@
+TABLE 2. Accuracy based results of deep learning algorithms.
+Sr Datasets Algorithms Accuracy | Reference
+No (%)
+1. | European LSTM 87.02 [30]
+cards GRU 86.02
+dataset.
+Ensemble 83.37
+model ¢ as
+baseline
+models
+2. The LSTM 88.47 [30]
+Brazilian GRU 84.13
+as: Ensemble 79.05
+model £ as
+baseline
+models
+3. | Commercial Deep belief 97.02 [15]
+banks in networks
+China (DBN)
+CNN 97.24
+RNN 97.25
+A Cardholdere GAN 00 0S [21]
+
+TABLE 3. The list of features available tn t
+
+Sr | Name of Feature Descrip
+No.
+1 Account number Related
+2 Open to buy The avai
+3 Credit Limit The ma»
+the asso
+4 Card number Number
+5 Transaction The trar
+Amount by the m
+6 Transaction Time Time of
+7 Transaction Date Date of
+8 Transaction Type Types ¢
+cash wit
+9 Currency Code The curt
+10 | Merchant Category | The Me:
+Code
+11 Merchant Number | The mer
+12 Transaction The cou

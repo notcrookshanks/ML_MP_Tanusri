@@ -1,0 +1,16 @@
+TABLE 9. The summary of baseline CNN sequential model.
+
+Layer (Type) Output Shape Param #
+
+dense (Dense) (None, 16) 480
+dropout (Dropout) (None, 16) 0
+dense_1 (Dense) (None, 16) 17
+
+a rare positive fraud example. The summary of the baseline
+model is presented in Table 9.
+
+The total amount of parameters is 497 and the total number
+of trainable parameters is 497. Finally, the total amount of
+nontrainable parameters is 0.
+
+5) DISTRIBUTION OF THE DATA

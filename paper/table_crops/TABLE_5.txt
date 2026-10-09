@@ -1,0 +1,33 @@
+TABLE 5. The accuracy and F1-socre of machine learning algorithms.
+
+Sr Algorithm Name Accuracy F1 Score
+No Score (%) (%)
+1. Decision tree algorithm 99.93 81.05
+2. KNN algorithm 99.95 85.71
+3. Logistic regression 99.91 73.56
+algorithm
+4. SVM Algorithms 99.93 77.71
+5. Random forest tree 99.92 77.27
+algorithm
+6. XG Boost 99.94 84.49
+
+3) RESULT OF THE CASE AMOUNT STATISTICS OF THE
+DATASET
+
+As shown in Figure 7, the case count statistics, the values
+of the ’Amount’ variable vary substantially once associated
+
+with the respite of the variables. To decrease the wide range
+af the valiee wecran ctandardiceit hy meance af the ‘Cfandnrd_
+
+FIGURE 8. Comparative analysis of machin
+
+Confusion matrix @'
+
+Actual label
+
+Predicted label
+
+FIGURE 9. Metrics of deep learning with e
+
+C. TOP 10 ALGORITHMS IN DEEP

@@ -1,0 +1,10 @@
+nce. Table 4 presents
+1 columns, including
+lied features, amount,
+
+Parameters of unseen nodes are tuned. The weights of the
+output are hidden nodes learned in a single step. This is the
+essential amount that is needed to properly learn a linear
+model. Given a single hidden layer of ELM, we assume that
+
+VOLUME 10, 2022

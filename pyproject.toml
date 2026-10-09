@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "credit-card-fraud-reproduction"
+version = "1.0.0"
+description = "Faithful reproduction of IEEE Access paper: Credit Card Fraud Detection Using State-of-the-Art Machine Learning and Deep Learning Algorithms"
+authors = [
+    { name = "Reproduction Team" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scikit-learn>=1.2.0",
+    "xgboost>=1.7.0",
+    "tensorflow>=2.12.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "pyyaml>=6.0",
+    "streamlit>=1.24.0",
+    "pytest>=7.3.0",
+    "pymupdf>=1.23.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+pythonpath = ["."]

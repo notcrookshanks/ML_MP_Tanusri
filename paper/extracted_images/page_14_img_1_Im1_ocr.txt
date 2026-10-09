@@ -1,0 +1,23 @@
+Model accuracy
+
+‘CNN Model Accuracy
+
+=
+0999 | — val 095
+
+090
+0988
+
+085
+0987 080
+
+075
+0996
+
+07
+0995, me
+
+3 of » @ Py
+
+Epoch 6 8 ® © ®
+C (23 Layers) D (14 Layers)

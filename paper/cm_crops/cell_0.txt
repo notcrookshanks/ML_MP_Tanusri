@@ -1,0 +1,17 @@
+‘Tue label
+
+Non-Defauni0)
+
+Defauit(2)
+
+Confusion Matrix of Decision Tree
+
+n
+
+50000
+
+40000
+
+20000
+
+10000

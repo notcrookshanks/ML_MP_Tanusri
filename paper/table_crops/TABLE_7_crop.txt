@@ -1,0 +1,5 @@
+viously defined model. Note that the model 1s best suited
+to using a batch size larger than 2048; this is important for
+confirming that each batch has a decent chance of comprising
+
+39709

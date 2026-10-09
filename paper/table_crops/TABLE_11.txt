@@ -1,0 +1,23 @@
+TABLE 11. Comparative analysis of ML and DL algorithms.
+
+Model Name Existing New Reference
+Accuracy Accuracy
+
+(%) (%)
+CNN 93.00 96.34 [32]
+94.6 [24]
+BL 83 99.72 [22]
+RF 97.55 99.92 [32]
+92.3 [24]
+SVM 97.43 99.93 [32]
+KNN 93.27 99.91 [33]
+91.11 [34]
+DT 97.08 99.93 [35]
+66.5 [24]
+LR 97.18 99.91 [35]
+67.8 [24]
+
+a dense layer and a dropout layer with a dropout rate of 0.5,
+followed by 3 dense layers. The first dense layer has a ReLU
+activation function of (100). The second dense layer has a
+ReLU activation function of (50). The third dense layer has

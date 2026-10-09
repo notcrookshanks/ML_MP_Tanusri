@@ -1,0 +1,19 @@
+TABLE 7. The accuracy of deep learning models using different epochs.
+
+Name of Layers | Epoch | Training Validation
+Algorithms Size Accuracy | Accuracy
+CNN with 11 20 0.932 0.913
+imbalanced = [73 50 0.912 0.913
+
+14 100 0.963 0.943
+
+17 100 0.955 0.947
+
+20 100 0.949 0.935
+CNN with 14 100 0.946 0.958
+balanced
+dataset
+Baseline 05 20 0.907 0.883
+
+is applied by varying the layers from 11 to 20 and comparing
+the result with baseline 5-layer architecture.

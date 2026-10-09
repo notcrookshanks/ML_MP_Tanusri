@@ -1,0 +1,28 @@
+TABLE 9. The summary of baseline CNN sequential model. | : :
+
+-4 -2 0
+V5
+Layer (Type) Output Shape Param #
+dense (Dense) (None, 16) 480 FIGURE 11. Positive distribution of the dat
+dropout (Dropout) (None, 16) 0 Negatigs distrib
+dense_1 (Dense) (None, 16) 17 ia,
+
+a rare positive fraud example. The summary of the baseline
+model is presented in Table 9.
+
+The total amount of parameters is 497 and the total number
+of trainable parameters is 497. Finally, the total amount of
+
+nontrainable parameters is 0. 2 0 .
+
+5) DISTRIBUTION OF THE DATA
+
+Identifying fraudulent credit card transactions is a common
+
+type of imbalanced binary classification where the focus
+
+is on the positive class (is fraud) class and negative class 4
+(is not fraud) class. Then, we compare the classification of
+
+—2
+

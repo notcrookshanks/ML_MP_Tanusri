@@ -1,0 +1,26 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Data artifacts (do not commit raw 150MB dataset)
+data/raw/creditcard.csv
+data/processed/*.parquet
+data/processed/*.csv
+data/external/*
+
+# Machine learning checkpoints and logs
+artifacts/checkpoints/*.h5
+artifacts/checkpoints/*.keras
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

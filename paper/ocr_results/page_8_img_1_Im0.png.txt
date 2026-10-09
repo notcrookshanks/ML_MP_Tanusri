@@ -1,0 +1,14 @@
+300000
+
+250000
+
+200000
+
+150000
+
+100000
+
+‘50000
+
+Class Distributions
+0: Verified || 1: Fraud

@@ -1,0 +1,57 @@
+TABLE 10. Results of deep learning model using different epochs.
+
+Baseline
+Model Epoch 35 Epoch 14
+Metrics Training | Validatio | Trainin | Validatio
+Accuracy n g n
+(%) Accuracy | Accurac | Accuracy
+(%) y (%)
+(%)
+Precision 93 42 91 89
+Recall 90 85 80 68
+AUC 98 97 94 95
+PRC 56 22 84 80
+Accuracy 98 96 99 99
+
+training and validation loss vs. epochs. We display overfitting
+over the epochs, which is where validation accuracy is less
+than training accuracy and epochs where validation loss is
+greater than the training loss.
+
+9) RESULTS OF DL ALGORITHMS ON BALANCED DATA
+
+0.2
+
+0.0
+
+10
+
+08
+
+o
+a
+
+Precision
+
+i)
+os
+
+0.2
+
+0.0
+
+10
+
+0 5 0 86S
+Epoc
+
+‘
+
+. antanes a i
+— Tain
+oms' Val
+
+r r T T
+
+0 5 10 15
+

@@ -1,0 +1,21 @@
+Precision
+
+10
+
+os
+
+os
+
+o4
+
+0.0
+
+—— ¥ain Baseline
+“Est Baseline
+—— Fain weigntea
+—— st Weighted
+
+oo oz os os os
+Recall
+
+10
